@@ -32,7 +32,7 @@ http://91.126.138.142:1935/live/smil:neox.smil/playlist.m3u8
 http://91.126.138.142:1935/live/smil:nova-Stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MEGA" tvg-logo=“http://logovectorseek.com/wp-content/uploads/2019/08/mega-tv-logo-vector.png" group-title="Generalistas" tvg-name="MEGA",MEGA
 http://91.126.141.12:1935/live/smil:mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="A3CINE TV" tvg-logo=“ https://www.panoramaaudiovisual.com/wp-content/uploads/2018/01/Atrescine.png" group-title="Generalistas" tvg-name="A3CINE TV",A3CINE TV
+#EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://www.ecestaticos.com/image/clipping/654/c7b30a7c02ac60c1ed39a65d8e3485ab/logotipo-de-atrescine-el-confi-tv.jpg" group-title="Generalistas" tvg-name="A3Cine",A3CineTv
 http://stream.pcriot.com/Z2jE/a3.php/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
