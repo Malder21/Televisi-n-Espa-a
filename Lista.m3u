@@ -61,9 +61,7 @@ https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
-https://rtvelivestream.akamaized.net/clan_dvr.m3u8
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
+http://31.42.187.36:25461/live/7kqRMP2mzI/dhzXrVsVl5/137.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
