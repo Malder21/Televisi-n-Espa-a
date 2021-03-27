@@ -22,6 +22,8 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://jetflyip.live/_nuxt/img/eafec15.png" group-title="Generalistas" tvg-name="La Sexta",La Sexta
 http://91.126.141.13:1935/live/21/playlist.m3u8
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://jetflyip.live/_nuxt/img/fb0e8e1.png" group-title="Generalistas" tvg-name="FDF",FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
