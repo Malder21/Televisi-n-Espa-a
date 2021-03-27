@@ -14,10 +14,14 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries
 https://livestartover.atresmedia.com/a3series/master.m3u8
+#EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="Antena 3",Antena 3
+91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://jetflyip.live/_nuxt/img/4680611.png" group-title="Generalistas" tvg-name="Cuatro",Cuatro
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://jetflyip.live/_nuxt/img/217b4e8.png" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="La Sexta",La Sexta
+http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
@@ -1214,4 +1218,3 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="Religiosos" tvg-name="3ABN USA",3ABN USA EN
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-
