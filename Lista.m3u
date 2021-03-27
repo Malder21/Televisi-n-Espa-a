@@ -20,7 +20,7 @@ http://91.126.141.13:1935/live/11/playlist.m3u8
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://jetflyip.live/_nuxt/img/217b4e8.png" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="La Sexta",La Sexta
+#EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://jetflyip.live/_nuxt/img/eafec15.png" group-title="Generalistas" tvg-name="La Sexta",La Sexta
 http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
