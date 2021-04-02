@@ -36,6 +36,8 @@ http://91.126.141.12:1935/live/smil:mega.smil/playlist.m3u8
 http://stream.pcriot.com/Z2jE/a3.php/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="Energy" tvg-logo="https://i.pinimg.com/originals/cb/ec/6f/cbec6fd830742d73ff020ea1a8a1eb2e.png" group-title="Generalistas" tvg-name="Energy",Energy
 http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ytimg.com/vi/mzMW20o2DE8/hqdefault.jpg" group-title="Generalistas" tvg-name="AXN",AXN
+http://moontools.me:8080/majochamb/zsKN66d9cA/1123693
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
