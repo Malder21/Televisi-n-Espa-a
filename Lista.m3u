@@ -42,6 +42,8 @@ http://moontools.me:8080/majochamb/zsKN66d9cA/1114559
 http://moontools.me:8080/majochamb/zsKN66d9cA/1114563
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.pngkit.com/png/full/223-2230281_disney-gets-government-approval-to-purchase-fox-assets.png" group-title="Generalistas" tvg-name="FOX", FOX
 http://moontools.me:8080/majochamb/zsKN66d9cA/1114555
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FOX-LIFE-HD.png" group-title="Generalistas" tvg-name="FOX LIFE", FOX LIFE
+http://moontools.me:8080/majochamb/zsKN66d9cA/1114557
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
