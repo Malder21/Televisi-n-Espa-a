@@ -30,7 +30,7 @@ http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 http://91.126.138.142:1935/live/smil:neox.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova" tvg-logo=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAmBZVzPvGmwBxIWOoikOHuZQ84_QQaBhSw&usqp=CAU" group-title="Generalistas" tvg-name="Nova",Nova
 http://91.126.138.142:1935/live/smil:nova-Stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MEGA" tvg-logo=“http://directostv.teleame.com/wp-content/uploads/2018/03/Mega-TV-España-en-directo-Online.png" group-title="Generalistas" tvg-name="MEGA",MEGA
+#EXTINF:-1 tvg-id="MEGA" tvg-logo=“https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title="Generalistas" tvg-name="MEGA",MEGA
 http://91.126.141.12:1935/live/smil:mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A3Cine" tvg-logo="https://www.ecestaticos.com/image/clipping/654/c7b30a7c02ac60c1ed39a65d8e3485ab/logotipo-de-atrescine-el-confi-tv.jpg" group-title="Generalistas" tvg-name="A3Cine",A3CineTv
 http://stream.pcriot.com/Z2jE/a3.php/a3cine-index.m3u8
