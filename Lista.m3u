@@ -28,7 +28,7 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2011/12/19/47D7D6E5-31D0-4734-836A-4580C1C9BEBE/58.jpg" group-title="Generalistas" tvg-name="Neox",Neox 
 http://91.126.138.142:1935/live/smil:neox.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MEGA" tvg-logo="http://4.bp.blogspot.com/-G7kPCQ7ggSc/UJhH4zLPprI/AAAAAAAAPK0/-h-lS4gQRTI/s1600/Nova+logo+2012.png" group-title="Generalistas" tvg-name="MEGA", MEGA
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="http://4.bp.blogspot.com/-G7kPCQ7ggSc/UJhH4zLPprI/AAAAAAAAPK0/-h-lS4gQRTI/s1600/Nova+logo+2012.png" group-title="Generalistas" tvg-name="NOVA", LA NOVA
 http://91.126.138.142:1935/live/smil:nova-Stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://1.bp.blogspot.com/-PBzi1nhysjk/WA67vd8GQnI/AAAAAAAAE2c/SeQnEcJQqS411Gx5Rh2ALZu241WmW5AtQCLcB/s1600/megatv.png" group-title="Generalistas" tvg-name="MEGA", MEGA
 http://91.126.141.12:1935/live/smil:mega.smil/playlist.m3u8
