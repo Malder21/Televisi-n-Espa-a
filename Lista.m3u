@@ -15,7 +15,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries
 https://livestartover.atresmedia.com/a3series/master.m3u8
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="Antena 3",Antena 3
-http://91.126.141.13:1935/live/11/playlist.m3u8
+http://91.126.141.13:1935/live/11/3500-def.m3u8
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://jetflyip.live/_nuxt/img/4680611.png" group-title="Generalistas" tvg-name="Cuatro",Cuatro
 http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://jetflyip.live/_nuxt/img/217b4e8.png" group-title="Generalistas" tvg-name="Telecinco",Telecinco
