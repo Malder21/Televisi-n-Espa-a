@@ -13,7 +13,7 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries
-https://livestartover.atresmedia.com/a3series/master.m3u8
+http://185.41.244.69/atreserieshd/tracks-v3a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 http://185.41.244.69/antena3hd/tracks-v3a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://jetflyip.live/_nuxt/img/4680611.png" group-title="Generalistas" tvg-name="Cuatro",Cuatro
