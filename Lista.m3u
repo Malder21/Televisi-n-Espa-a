@@ -23,7 +23,7 @@ http://185.41.244.69/telecincohd/video.m3u8
 #EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://jetflyip.live/_nuxt/img/eafec15.png" group-title="Generalistas" tvg-name="La Sexta",La Sexta
 http://185.41.244.69/lasextahd/video.m3u8
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://jetflyip.live/_nuxt/img/fb0e8e1.png" group-title="Generalistas" tvg-name="FDF",FDF
-http://185.41.244.69/fdf/tracks-v2a1a2/mono.m3u8
+http://185.41.244.69/fdf/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="https://album.mediaset.es/eimg/2018/10/10/hsbqTLvwdREJMbGH8hWs93.jpg" group-title="Generalistas" tvg-name="Divinity",Divinity
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2011/12/19/47D7D6E5-31D0-4734-836A-4580C1C9BEBE/58.jpg" group-title="Generalistas" tvg-name="Neox",Neox 
