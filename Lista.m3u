@@ -17,7 +17,7 @@ http://91.126.141.13:1935/live/101/1800-def.m3u8
 #EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://jetflyip.live/_nuxt/img/0d79dd9.png" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 http://91.126.141.13:1935/live/11/1400-def.m3u8
 #EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://jetflyip.live/_nuxt/img/4680611.png" group-title="Generalistas" tvg-name="Cuatro",Cuatro
-http://185.41.244.69/cuatrohd/tracks-v2a1a2/mono.m3u8
+https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/ryb1zzb5.m3u8?s=K9Lo-_jDLG7Aj5vBcUFKIQ&e=1637199697
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://jetflyip.live/_nuxt/img/217b4e8.png" group-title="Generalistas" tvg-name="Telecinco",Telecinco
 http://91.126.141.13:1935/live/61/1800-def.m3u8
 EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://jetflyip.live/_nuxt/img/eafec15.png" group-title="Generalistas" tvg-name="La Sexta",La Sexta
