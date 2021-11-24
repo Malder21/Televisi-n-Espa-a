@@ -1236,3 +1236,185 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="Religiosos" tvg-name="3ABN USA",3ABN USA EN
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES:BLAZE" tvg-logo="" group-title="España",ES:BLAZE 
+http://54.39.156.227:2080/jose62785/6279427/50328 
+#EXTINF:-1 tvg-id="" tvg-name="ES:BABY TV" tvg-logo="" group-title="España",ES:BABY TV 
+http://54.39.156.227:2080/jose62785/6279427/50329 
+#EXTINF:-1 tvg-id="" tvg-name="ES:#0 HD" tvg-logo="" group-title="España",ES:#0 HD 
+http://54.39.156.227:2080/jose62785/6279427/50330 
+#EXTINF:-1 tvg-id="" tvg-name="ES:24 Horas HD" tvg-logo="" group-title="España",ES:24 Horas HD 
+http://54.39.156.227:2080/jose62785/6279427/50331 
+#EXTINF:-1 tvg-id="" tvg-name="ES:A3 Series HD" tvg-logo="" group-title="España",ES:A3 Series HD 
+http://54.39.156.227:2080/jose62785/6279427/50332 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR LALIGA HD" tvg-logo="" group-title="España",ES:MOVISTAR LALIGA HD 
+http://54.39.156.227:2080/jose62785/6279427/50333 
+#EXTINF:-1 tvg-id="" tvg-name="ES:BLOOMBERG" tvg-logo="" group-title="España",ES:BLOOMBERG 
+http://54.39.156.227:2080/jose62785/6279427/50334 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL GOLF FHD" tvg-logo="" group-title="España",ES:CANAL GOLF FHD 
+http://54.39.156.227:2080/jose62785/6279427/50335 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL ODISEA" tvg-logo="" group-title="España",ES:CANAL ODISEA 
+http://54.39.156.227:2080/jose62785/6279427/50336 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL PANDA" tvg-logo="" group-title="España",ES:CANAL PANDA 
+http://54.39.156.227:2080/jose62785/6279427/50337 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL SUR" tvg-logo="" group-title="España",ES:CANAL SUR 
+http://54.39.156.227:2080/jose62785/6279427/50338 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CRIME AND INVESTIGATION" tvg-logo="" group-title="España",ES:CRIME AND INVESTIGATION 
+http://54.39.156.227:2080/jose62785/6279427/50339 
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISCOVERY CHANNELHD" tvg-logo="" group-title="España",ES:DISCOVERY CHANNELHD 
+http://54.39.156.227:2080/jose62785/6279427/50340 
+#EXTINF:-1 tvg-id="" tvg-name="ES:DMAX" tvg-logo="" group-title="España",ES:DMAX 
+http://54.39.156.227:2080/jose62785/6279427/50341 
+#EXTINF:-1 tvg-id="" tvg-name="ES:FOX NEWS" tvg-logo="" group-title="España",ES:FOX NEWS 
+http://54.39.156.227:2080/jose62785/6279427/50342 
+#EXTINF:-1 tvg-id="" tvg-name="ES:GALICIA TV" tvg-logo="" group-title="España",ES:GALICIA TV 
+http://54.39.156.227:2080/jose62785/6279427/50343 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar LaLiga" tvg-logo="" group-title="España",ES:Movistar LaLiga 
+http://54.39.156.227:2080/jose62785/6279427/50344 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR CINEDOC&ROLL HD" tvg-logo="" group-title="España",ES:MOVISTAR CINEDOC&ROLL HD 
+http://54.39.156.227:2080/jose62785/6279427/50345 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR DEPORTES 2 HD" tvg-logo="" group-title="España",ES:MOVISTAR DEPORTES 2 HD 
+http://54.39.156.227:2080/jose62785/6279427/50346 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR COMEDIA HD" tvg-logo="" group-title="España",ES:MOVISTAR COMEDIA HD 
+http://54.39.156.227:2080/jose62785/6279427/50347 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR SERIE HD" tvg-logo="" group-title="España",ES:MOVISTAR SERIE HD 
+http://54.39.156.227:2080/jose62785/6279427/50348 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR SERIE MANIA HD" tvg-logo="" group-title="España",ES:MOVISTAR SERIE MANIA HD 
+http://54.39.156.227:2080/jose62785/6279427/50349 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TAQUILLA 1 HD" tvg-logo="" group-title="España",ES:TAQUILLA 1 HD 
+http://54.39.156.227:2080/jose62785/6279427/50350 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TAQUILLA 2 HD" tvg-logo="" group-title="España",ES:TAQUILLA 2 HD 
+http://54.39.156.227:2080/jose62785/6279427/50351 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TAQUILLA 3 HD" tvg-logo="" group-title="España",ES:TAQUILLA 3 HD 
+http://54.39.156.227:2080/jose62785/6279427/50352 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TAQUILLA 4 HD" tvg-logo="" group-title="España",ES:TAQUILLA 4 HD 
+http://54.39.156.227:2080/jose62785/6279427/50353 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TAQUILLA 5 HD" tvg-logo="" group-title="España",ES:TAQUILLA 5 HD 
+http://54.39.156.227:2080/jose62785/6279427/50354 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TAQUILLA 6 HD" tvg-logo="" group-title="España",ES:TAQUILLA 6 HD 
+http://54.39.156.227:2080/jose62785/6279427/50355 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS HD" tvg-logo="" group-title="España",ES:TOROS HD 
+http://54.39.156.227:2080/jose62785/6279427/50356 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TVE 24H" tvg-logo="" group-title="España",ES:TVE 24H 
+http://54.39.156.227:2080/jose62785/6279427/50357 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Teledeporte HD" tvg-logo="" group-title="España",ES:Teledeporte HD 
+http://54.39.156.227:2080/jose62785/6279427/50358 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MADRID TV HD" tvg-logo="" group-title="España",ES:MADRID TV HD 
+http://54.39.156.227:2080/jose62785/6279427/50359 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar F\\'f3rmula 1 HD" tvg-logo="" group-title="España",ES:Movistar F\\'f3rmula 1 HD 
+http://54.39.156.227:2080/jose62785/6279427/50360 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTARr GOLF FHD" tvg-logo="" group-title="España",ES:MOVISTARr GOLF FHD 
+http://54.39.156.227:2080/jose62785/6279427/50361 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar Deportes HD" tvg-logo="" group-title="España",ES:Movistar Deportes HD 
+http://54.39.156.227:2080/jose62785/6279427/50362 
+#EXTINF:-1 tvg-id="" tvg-name="ES:IBERALIA TV" tvg-logo="" group-title="España",ES:IBERALIA TV 
+http://54.39.156.227:2080/jose62785/6279427/50363 
+#EXTINF:-1 tvg-id="" tvg-name="ES:GOL TV" tvg-logo="" group-title="España",ES:GOL TV 
+http://54.39.156.227:2080/jose62785/6279427/50364 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport 1 HD" tvg-logo="" group-title="España",ES:Eurosport 1 HD 
+http://54.39.156.227:2080/jose62785/6279427/50365 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Eurosport 2 HD" tvg-logo="" group-title="España",ES:Eurosport 2 HD 
+http://54.39.156.227:2080/jose62785/6279427/50366 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="" group-title="España",ES:Movistar Liga de Campeones HD 
+http://54.39.156.227:2080/jose62785/6279427/50367 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MEZZO LIVE HD" tvg-logo="" group-title="España",ES:MEZZO LIVE HD 
+http://54.39.156.227:2080/jose62785/6279427/50368 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Mega HD" tvg-logo="" group-title="España",ES:Mega HD 
+http://54.39.156.227:2080/jose62785/6279427/50369 
+#EXTINF:-1 tvg-id="" tvg-name="ES:FOX LIFE HD" tvg-logo="" group-title="España",ES:FOX LIFE HD 
+http://54.39.156.227:2080/jose62785/6279427/50370 
+#EXTINF:-1 tvg-id="" tvg-name="ES:FOX HD" tvg-logo="" group-title="España",ES:FOX HD 
+http://54.39.156.227:2080/jose62785/6279427/50371 
+#EXTINF:-1 tvg-id="" tvg-name="ES:FDF HD" tvg-logo="" group-title="España",ES:FDF HD 
+http://54.39.156.227:2080/jose62785/6279427/50372 
+#EXTINF:-1 tvg-id="" tvg-name="ES:DKISS" tvg-logo="" group-title="España",ES:DKISS 
+http://54.39.156.227:2080/jose62785/6279427/50373 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Divinity HD" tvg-logo="" group-title="España",ES:Divinity HD 
+http://54.39.156.227:2080/jose62785/6279427/50374 
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY CHANEL HD" tvg-logo="" group-title="España",ES:DISNEY CHANEL HD 
+http://54.39.156.227:2080/jose62785/6279427/50375 
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY XD" tvg-logo="" group-title="España",ES:DISNEY XD 
+http://54.39.156.227:2080/jose62785/6279427/50376 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Disney Jr" tvg-logo="" group-title="España",ES:Disney Jr 
+http://54.39.156.227:2080/jose62785/6279427/50377 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Canal Casa" tvg-logo="" group-title="España",ES:Canal Casa 
+http://54.39.156.227:2080/jose62785/6279427/50378 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Cosmo HD" tvg-logo="" group-title="España",ES:Cosmo HD 
+http://54.39.156.227:2080/jose62785/6279427/50379 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Comedy Central HD" tvg-logo="" group-title="España",ES:Comedy Central HD 
+http://54.39.156.227:2080/jose62785/6279427/50380 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL COCINA" tvg-logo="" group-title="España",ES:CANAL COCINA 
+http://54.39.156.227:2080/jose62785/6279427/50381 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CLAN TVE" tvg-logo="" group-title="España",ES:CLAN TVE 
+http://54.39.156.227:2080/jose62785/6279427/50382 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Caza y Pesca HD" tvg-logo="" group-title="España",ES:Caza y Pesca HD 
+http://54.39.156.227:2080/jose62785/6279427/50383 
+#EXTINF:-1 tvg-id="" tvg-name="ES:CALLE 13 HD" tvg-logo="" group-title="España",ES:CALLE 13 HD 
+http://54.39.156.227:2080/jose62785/6279427/50384 
+#EXTINF:-1 tvg-id="" tvg-name="ES:BLAZE" tvg-logo="" group-title="España",ES:BLAZE 
+http://54.39.156.227:2080/jose62785/6279427/50385 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Be Mad HD" tvg-logo="" group-title="España",ES:Be Mad HD 
+http://54.39.156.227:2080/jose62785/6279427/50386 
+#EXTINF:-1 tvg-id="" tvg-name="ES:BARCA TV" tvg-logo="" group-title="España",ES:BARCA TV 
+http://54.39.156.227:2080/jose62785/6279427/50387 
+#EXTINF:-1 tvg-id="" tvg-name="ES:AXN WHITE HD" tvg-logo="" group-title="España",ES:AXN WHITE HD 
+http://54.39.156.227:2080/jose62785/6279427/50388 
+#EXTINF:-1 tvg-id="" tvg-name="ES:AXN HD" tvg-logo="" group-title="España",ES:AXN HD 
+http://54.39.156.227:2080/jose62785/6279427/50389 
+#EXTINF:-1 tvg-id="" tvg-name="ES:ARAGON TV" tvg-logo="" group-title="España",ES:ARAGON TV 
+http://54.39.156.227:2080/jose62785/6279427/50390 
+#EXTINF:-1 tvg-id="" tvg-name="ES:AMC HD" tvg-logo="" group-title="España",ES:AMC HD 
+http://54.39.156.227:2080/jose62785/6279427/50391 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Nova HD" tvg-logo="" group-title="España",ES:Nova HD 
+http://54.39.156.227:2080/jose62785/6279427/50392 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Boing HD" tvg-logo="" group-title="España",ES:Boing HD 
+http://54.39.156.227:2080/jose62785/6279427/50393 
+#EXTINF:-1 tvg-id="" tvg-name="ES:HOLLYWOOD HD" tvg-logo="" group-title="España",ES:HOLLYWOOD HD 
+http://54.39.156.227:2080/jose62785/6279427/50394 
+#EXTINF:-1 tvg-id="" tvg-name="ES:XTRM" tvg-logo="" group-title="España",ES:XTRM 
+http://54.39.156.227:2080/jose62785/6279427/50395 
+#EXTINF:-1 tvg-id="" tvg-name="ES:VIAJAR HD" tvg-logo="" group-title="España",ES:VIAJAR HD 
+http://54.39.156.227:2080/jose62785/6279427/50396 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TNT HD" tvg-logo="" group-title="España",ES:TNT HD 
+http://54.39.156.227:2080/jose62785/6279427/50397 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TELEMADRID HD" tvg-logo="" group-title="España",ES:TELEMADRID HD 
+http://54.39.156.227:2080/jose62785/6279427/50398 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TCM HD" tvg-logo="" group-title="España",ES:TCM HD 
+http://54.39.156.227:2080/jose62785/6279427/50399 
+#EXTINF:-1 tvg-id="" tvg-name="ES:SYFY HD" tvg-logo="" group-title="España",ES:SYFY HD 
+http://54.39.156.227:2080/jose62785/6279427/50400 
+#EXTINF:-1 tvg-id="" tvg-name="ES:SUNDANCE HD" tvg-logo="" group-title="España",ES:SUNDANCE HD 
+http://54.39.156.227:2080/jose62785/6279427/50401 
+#EXTINF:-1 tvg-id="" tvg-name="ES:PARAMOUNT NETWORK" tvg-logo="" group-title="España",ES:PARAMOUNT NETWORK 
+http://54.39.156.227:2080/jose62785/6279427/50402 
+#EXTINF:-1 tvg-id="" tvg-name="ES:PANDA" tvg-logo="" group-title="España",ES:PANDA 
+http://54.39.156.227:2080/jose62785/6279427/50403 
+#EXTINF:-1 tvg-id="" tvg-name="ES:ODESEA" tvg-logo="" group-title="España",ES:ODESEA 
+http://54.39.156.227:2080/jose62785/6279427/50404 
+#EXTINF:-1 tvg-id="" tvg-name="ES:NICKELODEON HD" tvg-logo="" group-title="España",ES:NICKELODEON HD 
+http://54.39.156.227:2080/jose62785/6279427/50405 
+#EXTINF:-1 tvg-id="" tvg-name="ES:NICK JUNIOR" tvg-logo="" group-title="España",ES:NICK JUNIOR 
+http://54.39.156.227:2080/jose62785/6279427/50406 
+#EXTINF:-1 tvg-id="" tvg-name="ES:NAT GEO WILD HD" tvg-logo="" group-title="España",ES:NAT GEO WILD HD 
+http://54.39.156.227:2080/jose62785/6279427/50407 
+#EXTINF:-1 tvg-id="" tvg-name="ES:NAT GEO HD" tvg-logo="" group-title="España",ES:NAT GEO HD 
+http://54.39.156.227:2080/jose62785/6279427/50408 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MTV ESPA\\'d1A" tvg-logo="" group-title="España",ES:MTV ESPA\\'d1A 
+http://54.39.156.227:2080/jose62785/6279427/50409 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MoviStar ESTRENOS HD" tvg-logo="" group-title="España",ES:MoviStar ESTRENOS HD 
+http://54.39.156.227:2080/jose62785/6279427/50410 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR CINE N" tvg-logo="" group-title="España",ES:MOVISTAR CINE N 
+http://54.39.156.227:2080/jose62785/6279427/50411 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR Disney HD" tvg-logo="" group-title="España",ES:MOVISTAR Disney HD 
+http://54.39.156.227:2080/jose62785/6279427/50412 
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR ACCION HD" tvg-logo="" group-title="España",ES:MOVISTAR ACCION HD 
+http://54.39.156.227:2080/jose62785/6279427/50413 
+#EXTINF:-1 tvg-id="" tvg-name="ES:La Sexta HD" tvg-logo="" group-title="España",ES:La Sexta HD 
+http://54.39.156.227:2080/jose62785/6279427/50414 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Cuatro HD" tvg-logo="" group-title="España",ES:Cuatro HD 
+http://54.39.156.227:2080/jose62785/6279427/50415 
+#EXTINF:-1 tvg-id="" tvg-name="ES:Antena 3 HD" tvg-logo="" group-title="España",ES:Antena 3 HD 
+http://54.39.156.227:2080/jose62785/6279427/50416 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TVE LA 2 HD" tvg-logo="" group-title="España",ES:TVE LA 2 HD 
+http://54.39.156.227:2080/jose62785/6279427/50417 
+#EXTINF:-1 tvg-id="" tvg-name="ES:TVE LA 1 HD" tvg-logo="" group-title="España",ES:TVE LA 1 HD 
+http://54.39.156.227:2080/jose62785/6279427/50418 
