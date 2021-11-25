@@ -4,7 +4,7 @@ http://54.39.156.227:2080/jose62785/6279427/50328
 http://54.39.156.227:2080/jose62785/6279427/50329 
 #EXTINF:-1 tvg-id="" tvg-name="ES:Cuatro HD" tvg-logo="" group-title="España",ES:Cuatro HD 
 http://54.39.156.227:2080/jose62785/6279427/50415 
-#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://jetflyip.live/_nuxt/img/217b4e8.png" group-title="Generalistas" tvg-name="Telecinco",Telecinco
+#EXTINF:-1 tvg-id="" tvg-name="ES:Telecinco HD" tvg-logo="" group-title="España",ES:Telecinco HD
 http://91.126.141.13:1935/live/61/1800-def.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES:#0 HD" tvg-logo="" group-title="España",ES:#0 HD 
 http://54.39.156.227:2080/jose62785/6279427/50330 
